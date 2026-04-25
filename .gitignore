@@ -1,0 +1,7 @@
+data/stage_2_data/train.csv
+data/stage_2_data/test.csv
+data/
+__pycache__/
+*.pyc
+.DS_Store
+result/
